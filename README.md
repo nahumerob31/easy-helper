@@ -1,5 +1,12 @@
 # easy-helper
-Easy Helper - Built with ❤️
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Future Plans](#future-plans)
 
 ## Description
 A simple helper tool aimed at streamlining various development tasks and improving productivity.
