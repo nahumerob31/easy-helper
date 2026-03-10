@@ -1,40 +1,17 @@
-# easy-helper
+# Easy Helper
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Future Plans](#future-plans)
-
-## Description
-A simple helper tool aimed at streamlining various development tasks and improving productivity.
+## Introduction
+A simple tool designed to automate repetitive tasks with ease.
 
 ## Features
 - Task automation
-- Quick access to common commands
-- Customizable settings
+- Easy configuration
 
-## Technologies Used
-- JavaScript
+## Tech Stack
+- JavaScript for development
 
 ## Usage
-To use this tool, clone the repository and run the following command:
-```
-npm install
-npm start
-```
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feat/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feat/amazing-feature`)
-5. Open a Pull Request
+Clone the repository and follow the instructions in the README to set it up.
 
 ## Future Plans
 - Add more features based on user feedback.
-- Improve documentation.
